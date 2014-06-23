@@ -1,9 +1,6 @@
 # Get hosts file at http://someonewhocares.org/hosts/
 # and append additions at the top of it.
 
-#<useful>
-127.0.0.1 dev.ost.io
-#</useful>
 
 #<additional-spyware-sites>
 0.0.0.1 spylog.com
@@ -20,3 +17,8 @@
 0.0.0.1 zeobit.com
 0.0.0.1 mackeeperapp.zeobit.com
 #</additional-spyware-sites>
+
+
+
+beta999.mmvpay.com
+beta999.www.matchmove.com
